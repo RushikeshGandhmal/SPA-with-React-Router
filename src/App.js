@@ -21,6 +21,7 @@ function App() {
           </Route>
           <Route path="/products/:productId">
             <ProductDetail />    
+    
           </Route>
         </Switch>
       </main>
