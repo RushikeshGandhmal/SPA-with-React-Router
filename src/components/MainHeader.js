@@ -10,6 +10,7 @@ const MainHeader = () => {
           <li>
             <NavLink activeClassName={classes.active} to="/welcome">
               Welcome
+
             </NavLink>
           </li>
           <li>
