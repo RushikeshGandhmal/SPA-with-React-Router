@@ -15,6 +15,7 @@ const Products = () => {
           <Link to="/products/p3">An Online Course</Link>
         </li>    
       </ul>
+    
     </section>
   );
 };
