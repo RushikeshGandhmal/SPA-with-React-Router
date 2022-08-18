@@ -13,8 +13,7 @@ const Products = () => {
         </li>
         <li>
           <Link to="/products/p3">An Online Course</Link>
-        </li>
-    
+        </li>    
       </ul>
     </section>
   );
