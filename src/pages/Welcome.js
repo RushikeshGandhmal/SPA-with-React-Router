@@ -5,7 +5,7 @@ const Welcome = () => {
     <section>
       <h1>Welcome To This React World</h1>
       <Route path="/welcome/new-user">
-        <p>Welcome, New User!</p>
+        <p>Welcome,  New User!</p>
       </Route>
     </section>
   );
