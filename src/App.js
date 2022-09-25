@@ -12,6 +12,7 @@ function App() {
         <Switch>
           <Route path="/" exact>
             <Redirect to="/welcome" />
+    
           </Route>
           <Route path="/welcome">
             <Welcome />
